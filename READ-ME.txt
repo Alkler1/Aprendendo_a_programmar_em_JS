@@ -1,0 +1,5 @@
+Esse curso está mais ligado com a parte client-side sendo assim os recursos serão mais
+voltados para o suporte HTML e CSS, porém não deixa de ser programação.
+Futuramente farei o curso de JavaScript para Back-End.
+Eu cheguei a começar, mas boa parte do conteúdo não me recordo e não achei o arquivo 
+.docx para estudar e deixar salvo nesta pasta.
